@@ -3,7 +3,6 @@ package com.github.matheusko.citiesapi.cities.resources;
 import com.github.matheusko.citiesapi.cities.entities.City;
 import com.github.matheusko.citiesapi.cities.repositories.CityRepository;
 import com.github.matheusko.citiesapi.exceptions.ResourceNotFoundException;
-import com.github.matheusko.citiesapi.states.entities.State;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
