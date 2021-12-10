@@ -1,8 +1,6 @@
 package com.github.matheusko.citiesapi.states.entities;
 
-
-
-import com.github.matheusko.citiesapi.countries.entities.Country;
+//import com.github.matheusko.citiesapi.countries.entities.Country;
 import com.vladmihalcea.hibernate.type.json.JsonBinaryType;
 import org.hibernate.annotations.Type;
 import org.hibernate.annotations.TypeDef;
